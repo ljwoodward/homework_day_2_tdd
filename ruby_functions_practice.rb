@@ -32,23 +32,24 @@ end
 
 def number_to_full_month_name(month)
   case month
-  when 1
-    "January"
-  when 3
-    "March"
-  when 9
-    "September"
+    when 1
+      "January"
+    when 3
+      "March"
+    when 9
+      "September"
   end
 end
 
 def number_to_short_month_name(short_month)
   case short_month
-  when 1
-    "Jan"
-  when 3
-    "Mar"
-  when 9
-    "Sep"
+    when 1
+      "Jan"
+    when 3
+      "Mar"
+    when 9
+      "Sep"
+  end
+end
 
-end
-end
+def
