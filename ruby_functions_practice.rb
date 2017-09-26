@@ -52,4 +52,6 @@ def number_to_short_month_name(short_month)
   end
 end
 
-def
+def cube(number1)
+  return number1 * number1
+end
