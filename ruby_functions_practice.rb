@@ -56,3 +56,7 @@ end
 def cube(number1)
   return number1 * number1 * number1
 end
+
+def volume_of_sphere(radius)
+return 4/3r * Math::PI * (radius * radius * radius)
+end
